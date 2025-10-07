@@ -117,7 +117,10 @@ Cure-Point is continuously evolving! Here are some planned enhancements and futu
 *   📱 **Mobile Application Support:** Develop companion mobile applications for quick access and notifications.
 *   🔄 **Third-Party Integrations:** Integrate with external billing systems or insurance providers.
 *   ![Panel](src/icons/panel.png)
-*   ### Project Screenshots
+## 🔹 Glimpses of the Project
+
+Take a look at some key screens and features of the **Hospital Management System**:
+
 
 | Login_demo | Login_Credentials | Patient_Form | Patient_Details | Room_Details |
 |--------------|--------------|--------------|--------------|--------------|
