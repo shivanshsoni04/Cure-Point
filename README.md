@@ -116,6 +116,18 @@ Cure-Point is continuously evolving! Here are some planned enhancements and futu
 *   🌐 **Web-Based Interface:** Explore developing a web front-end for broader accessibility.
 *   📱 **Mobile Application Support:** Develop companion mobile applications for quick access and notifications.
 *   🔄 **Third-Party Integrations:** Integrate with external billing systems or insurance providers.
+*   ![Panel](src/icons/panel.png)
+*   ### Project Screenshots
+
+| Login_demo | Login_Credentials | Patient_Form | Patient_Details | Room_Details |
+|--------------|--------------|--------------|--------------|--------------|
+| <img src="src/icons/Login_demo.png" alt="Login_demo" width="200"/> | <img src="src/icons/Login_Credentials.png" alt="Login_Credentials" width="200"/> | <img src="src/icons/Patient_Form.png" alt="Patient_Form" width="200"/> | <img src="src/icons/Patient_Details.png" alt="Screenshot 4" width="200"/> | <img src="src/icons/Room_Details.png" alt="Screenshot 5" width="200"/> |
+
+| Room_Status | CheckOut | CheckOut-Discharge | Department | checkOut-Updates |
+|--------------|--------------|--------------|--------------|---------------|
+| <img src="src/icons/Room_Status.png" alt="Screenshot 6" width="200"/> | <img src="src/icons/CheckOut-check.png" alt="Screenshot 7" width="200"/> | <img src="src/icons/CheckOut-Discharge.png" alt="Screenshot 8" width="200"/> | <img src="src/icons/Department.png" alt="Screenshot 9" width="200"/> | <img src="src/icons/checkOut-Updates.png" alt="Screenshot 10" width="200"/> |
+
+
 
 
 ## 🤝 Contributing
